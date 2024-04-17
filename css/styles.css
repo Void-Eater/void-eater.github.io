@@ -1117,6 +1117,11 @@ progress {
     flex: 0 0 auto;
     width: 33.33333333%;
   }
+  .center {
+	  margin: auto;
+	  width: 50%;
+	  padding: 10px;
+}
   .col-md-5 {
     flex: 0 0 auto;
     width: 41.66666667%;
